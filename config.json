@@ -2,7 +2,7 @@
   "family_name": "Maple Mono",
   "use_hinted": false,
   "pool_size": 4,
-  "ligature": false,
+  "enable_liga": false,
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "enable",
